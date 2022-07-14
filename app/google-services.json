@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "52107136354",
+    "project_id": "cryptography-29cb9",
+    "storage_bucket": "cryptography-29cb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52107136354:android:05195d3d44d4a4ddacf03b",
+        "android_client_info": {
+          "package_name": "com.example.crypto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52107136354-8usheles89p10ne0jim15vmkm539skv2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.crypto",
+            "certificate_hash": "0bf4e0bc357b63bf9be140e2493e7a1608ed8e8b"
+          }
+        },
+        {
+          "client_id": "52107136354-h6kl3sbbeich7saj8pfk32kqo64a00gd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRlxzUVTT5hUe2prIbTpfOSV9wzpM0I4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52107136354-h6kl3sbbeich7saj8pfk32kqo64a00gd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
